@@ -1,2 +1,7 @@
 api Doctorb within Orb::Doctorb
+	with Orb::Core::Reflect
+
+	type DocumentationGenerator<T: ReflectedObject>
+	
+	
 ...
